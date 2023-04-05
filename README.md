@@ -9,3 +9,5 @@ test repo for git and github lesson
 These are Michelle's practice edits 
 
 Michelle is an awesome collaborator!
+
+Thanks!!!
