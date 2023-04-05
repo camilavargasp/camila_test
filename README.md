@@ -6,4 +6,6 @@ test repo for git and github lesson
 - practice git workflow
 
 ## Practicing Git 
-These are Michelle's pracitce edits 
+These are Michelle's practice edits 
+
+Michelle is an awesome collaborator!
