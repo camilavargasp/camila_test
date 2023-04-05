@@ -8,4 +8,3 @@ test repo for git and github lesson
 ## Practicing Git 
 These are Michelle's practice edits 
 
-Michelle is an awesome collaborator!
